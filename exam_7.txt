@@ -1,0 +1,16 @@
+https://github.com/bobur-amirov/password_manager/tree/master
+
+Shu reponi clone qilib olish kerak
+Bu repo har xil websayt yoki app lardan ruyxatdan o'tgandan keyin passswordlari esdan
+chiqib ketmaslik uchun saqlaydan project
+
+Eslatma: Official documentation dan foydalanish mumkin
+
+1. Register va login qilish imkoni bo'lish kerak (TokenAuthentication)
+2. UserPasswordManager model uchun CRUD yozish
+3. name buyicha search va application_type buyicha filter qilish imkoni bo'lish kerak
+4. Dokcerfile va docker-compose.yaml yozish kerak
+
+
+Javob:
+    github yuklab link berish kerak
